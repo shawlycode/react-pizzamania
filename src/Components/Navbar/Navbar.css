@@ -8,7 +8,9 @@
 .nav-item{
    margin-left: 50px;
 }
-
+ .nav-link a{
+    color: honeydew;
+}
 nav{
-    background-color: saddlebrown;
+    background-color: rgba(160, 9, 9, 0.733);
 }

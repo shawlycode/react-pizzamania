@@ -1,0 +1,26 @@
+.contact-form{
+    background-color: rgba(41, 20, 20, 0.904);
+    height: 20vh;
+    width: 800px;
+    margin: auto;
+    border-top: solid 10px tomato;
+    border-radius: 10px;
+    color: rgb(186, 212, 186);
+    padding: 20px;
+}
+.text-3{
+    text-align: center;
+}
+.row-fields{
+    padding-bottom: 20px;
+}
+.contact-form1{
+    background-color: rgba(41, 20, 20, 0.904);
+    height: 20vh;
+    width: 800px;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+    color: rgb(186, 212, 186);
+    padding: 20px;
+}
